@@ -1,0 +1,139 @@
+﻿Aeropuerto NQN agregado al sistema
+Aeropuerto EZE agregado al sistema
+Aeropuerto JNI agregado al sistema
+Aeropuerto NEC agregado al sistema
+Aeropuerto CTC agregado al sistema
+Aeropuerto RSA agregado al sistema
+Aeropuerto BRC agregado al sistema
+Aeropuerto SLA agregado al sistema
+Aeropuerto USH agregado al sistema
+Aeropuerto RGA agregado al sistema
+Aeropuerto TUC agregado al sistema
+Aeropuerto FTE agregado al sistema
+Aeropuerto MDZ agregado al sistema
+Aeropuerto PRA agregado al sistema
+Aeropuerto RES agregado al sistema
+Aeropuerto BHI agregado al sistema
+Vuelo AA2279 agregado al sistema
+Vuelo LA6845 agregado al sistema
+Vuelo AA7485 agregado al sistema
+Vuelo AA2753 agregado al sistema
+Vuelo AU4763 agregado al sistema
+Vuelo AJ6739 agregado al sistema
+Vuelo AJ7959 agregado al sistema
+Vuelo AA6835 agregado al sistema
+Vuelo LA3423 agregado al sistema
+Vuelo LA6576 agregado al sistema
+Vuelo AU9896 agregado al sistema
+Vuelo AU1231 agregado al sistema
+Vuelo AA7070 agregado al sistema
+Vuelo AA8032 agregado al sistema
+Vuelo AA3413 agregado al sistema
+Cliente DNI34.423.706 agregado al sistema
+Cliente DNI40.612.658 agregado al sistema
+Cliente DNI23.503.564 agregado al sistema
+Cliente DNI45.123.807 agregado al sistema
+Cliente DNI30.653.234 agregado al sistema
+Cliente DNI35.213.222 agregado al sistema
+Cliente DNI28.020.454 agregado al sistema
+Cliente DNI38.675.254 agregado al sistema
+Cliente DNI49.454.706 agregado al sistema
+Cliente DNI37.875.234 agregado al sistema
+Cliente DNI45.344.356 agregado al sistema
+Cliente DNI31.346.787 agregado al sistema
+Cliente DNI29.034.234 agregado al sistema
+Cliente DNI46.342.799 agregado al sistema
+Cliente DNI50.576.234 agregado al sistema
+Cliente DNI29.993.934 agregado al sistema
+Cliente DNI44.654.366 agregado al sistema
+Cliente DNI49.000.764 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 24 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 25 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 35 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 34 agregado al sistema
+Pasaje Pasaje para Vuelo AA2279, fecha 20200820, estado pendiente y numero de asiento 45 agregado al sistema
+Pasaje Pasaje para Vuelo AA2279, fecha 20200821, estado pendiente y numero de asiento 45 agregado al sistema
+Pasaje Pasaje para Vuelo AA2279, fecha 20200820, estado pendiente y numero de asiento 46 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 47 agregado al sistema
+Pasaje Pasaje para Vuelo AU1231, fecha 20200920, estado pendiente y numero de asiento 48 agregado al sistema
+Pasaje Pasaje para Vuelo AU1231, fecha 20200920, estado pendiente y numero de asiento 25 agregado al sistema
+Pasaje Pasaje para Vuelo LA3423, fecha 20201008, estado pendiente y numero de asiento 15 agregado al sistema
+Pasaje Pasaje para Vuelo LA3423, fecha 20201008, estado pendiente y numero de asiento 16 agregado al sistema
+Pasaje Pasaje para Vuelo LA3423, fecha 20201008, estado pendiente y numero de asiento 17 agregado al sistema
+Pasaje Pasaje para Vuelo AU9896, fecha 20201212, estado pendiente y numero de asiento 23 agregado al sistema
+Pasaje Pasaje para Vuelo AU9896, fecha 20201212, estado pendiente y numero de asiento 24 agregado al sistema
+Pasaje Pasaje para Vuelo AJ6739, fecha 20201224, estado pendiente y numero de asiento 1 agregado al sistema
+Pasaje Pasaje para Vuelo AJ6739, fecha 20200920, estado pendiente y numero de asiento 88 agregado al sistema
+Pasaje Pasaje para Vuelo AJ6739, fecha 20200920, estado pendiente y numero de asiento 89 agregado al sistema
+Pasaje Pasaje para Vuelo LA6576, fecha 20200820, estado pendiente y numero de asiento 12 agregado al sistema
+Pasaje Pasaje para Vuelo LA6576, fecha 20200820, estado pendiente y numero de asiento 13 agregado al sistema
+     ----- EJECUCION FINALIZADA -----     
+Aeropuerto NQN agregado al sistema
+Aeropuerto EZE agregado al sistema
+Aeropuerto JNI agregado al sistema
+Aeropuerto NEC agregado al sistema
+Aeropuerto CTC agregado al sistema
+Aeropuerto RSA agregado al sistema
+Aeropuerto BRC agregado al sistema
+Aeropuerto SLA agregado al sistema
+Aeropuerto USH agregado al sistema
+Aeropuerto RGA agregado al sistema
+Aeropuerto TUC agregado al sistema
+Aeropuerto FTE agregado al sistema
+Aeropuerto MDZ agregado al sistema
+Aeropuerto PRA agregado al sistema
+Aeropuerto RES agregado al sistema
+Aeropuerto BHI agregado al sistema
+Vuelo AA2279 agregado al sistema
+Vuelo LA6845 agregado al sistema
+Vuelo AA7485 agregado al sistema
+Vuelo AA2753 agregado al sistema
+Vuelo AU4763 agregado al sistema
+Vuelo AJ6739 agregado al sistema
+Vuelo AJ7959 agregado al sistema
+Vuelo AA6835 agregado al sistema
+Vuelo LA3423 agregado al sistema
+Vuelo LA6576 agregado al sistema
+Vuelo AU9896 agregado al sistema
+Vuelo AU1231 agregado al sistema
+Vuelo AA7070 agregado al sistema
+Vuelo AA8032 agregado al sistema
+Vuelo AA3413 agregado al sistema
+Cliente DNI34.423.706 agregado al sistema
+Cliente DNI40.612.658 agregado al sistema
+Cliente DNI23.503.564 agregado al sistema
+Cliente DNI45.123.807 agregado al sistema
+Cliente DNI30.653.234 agregado al sistema
+Cliente DNI35.213.222 agregado al sistema
+Cliente DNI28.020.454 agregado al sistema
+Cliente DNI38.675.254 agregado al sistema
+Cliente DNI49.454.706 agregado al sistema
+Cliente DNI37.875.234 agregado al sistema
+Cliente DNI45.344.356 agregado al sistema
+Cliente DNI31.346.787 agregado al sistema
+Cliente DNI29.034.234 agregado al sistema
+Cliente DNI46.342.799 agregado al sistema
+Cliente DNI50.576.234 agregado al sistema
+Cliente DNI29.993.934 agregado al sistema
+Cliente DNI44.654.366 agregado al sistema
+Cliente DNI49.000.764 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 24 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 25 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 35 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 34 agregado al sistema
+Pasaje Pasaje para Vuelo AA2279, fecha 20200820, estado pendiente y numero de asiento 45 agregado al sistema
+Pasaje Pasaje para Vuelo AA2279, fecha 20200821, estado pendiente y numero de asiento 45 agregado al sistema
+Pasaje Pasaje para Vuelo AA2279, fecha 20200820, estado pendiente y numero de asiento 46 agregado al sistema
+Pasaje Pasaje para Vuelo AA3413, fecha 20200820, estado pendiente y numero de asiento 47 agregado al sistema
+Pasaje Pasaje para Vuelo AU1231, fecha 20200920, estado pendiente y numero de asiento 48 agregado al sistema
+Pasaje Pasaje para Vuelo AU1231, fecha 20200920, estado pendiente y numero de asiento 25 agregado al sistema
+Pasaje Pasaje para Vuelo LA3423, fecha 20201008, estado pendiente y numero de asiento 15 agregado al sistema
+Pasaje Pasaje para Vuelo LA3423, fecha 20201008, estado pendiente y numero de asiento 16 agregado al sistema
+Pasaje Pasaje para Vuelo LA3423, fecha 20201008, estado pendiente y numero de asiento 17 agregado al sistema
+Pasaje Pasaje para Vuelo AU9896, fecha 20201212, estado pendiente y numero de asiento 23 agregado al sistema
+Pasaje Pasaje para Vuelo AU9896, fecha 20201212, estado pendiente y numero de asiento 24 agregado al sistema
+Pasaje Pasaje para Vuelo AJ6739, fecha 20201224, estado pendiente y numero de asiento 1 agregado al sistema
+Pasaje Pasaje para Vuelo AJ6739, fecha 20200920, estado pendiente y numero de asiento 88 agregado al sistema
+Pasaje Pasaje para Vuelo AJ6739, fecha 20200920, estado pendiente y numero de asiento 89 agregado al sistema
+Pasaje Pasaje para Vuelo LA6576, fecha 20200820, estado pendiente y numero de asiento 12 agregado al sistema
+Pasaje Pasaje para Vuelo LA6576, fecha 20200820, estado pendiente y numero de asiento 13 agregado al sistema
